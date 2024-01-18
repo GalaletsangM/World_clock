@@ -1,5 +1,9 @@
 body {
   background-color: #f9f7fe;
+  background-image: url('https://images.squarespace-cdn.com/content/v1/6123aa4da7d85907b823dc29/1646063669874-SKXA5SWVYES9QIB01OHI/clouds.jpg?format=1000w');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
   margin: 60px 0;
   font-family: sans-serif;
 }
@@ -24,6 +28,12 @@ h1 {
   text-align: center;
   font-family: sans-serif;
   font-size: 36px;
+
+}
+.world-clock{
+    width: 10%;
+    border-radius: 10px;
+    vertical-align: middle;
 }
 
 .city {
@@ -56,3 +66,4 @@ footer {
   font-size: 18px;
   color: rgba(0, 0, 0, 0.6);
 }
+
